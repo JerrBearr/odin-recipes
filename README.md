@@ -39,3 +39,7 @@ JAN 18 9:37....by the end of this assignment i will have made 3 separate HTML re
 
 
 reflection after.....
+
+JAN 18 12:59.... Took 3 total breaks, equaling to 45 minutes of unproductive time. Not bad for learning Git, GitHub, and how to write simple HTML pages!
+Hardest part of this exercise for me, was getting the basic structure down of the organiztion for Git. I will familiarize myself more with Git in the upcoming projects!
+Easy part was writing the HTML. I already knew the basics of how to write a very simple HTML webpage.
